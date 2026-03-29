@@ -1,9 +1,18 @@
 # Flybo II: Drone Sky Destroyer Support
 
-Welcome to the support page for Flybo II. 
+Welcome to the official support page for **Flybo II**. We are dedicated to providing the best experience for our players.
 
-If you have any questions, encounter bugs, or have suggestions for improvements, please:
-1. Open an issue in the "Issues" tab above or open https://github.com/snorringalbert/flybo2-support/issues
-2. Or contact the developer directly via email: al.newlake@gmail.com
+### 📧 Contact via Email
+If you have any questions, encountered a bug, or have suggestions for improvements, please contact us directly:
 
-Thank you for playing Flybo II!
+[**Click here to Contact Support**](mailto:al.newlake@gmail.com?subject=Flybo%20II%20Support%20Request)
+
+---
+
+### 🐞 Report an Issue
+If you have a GitHub account, you can also log a formal ticket in our repository:
+
+[**Open a Support Ticket**](https://github.com/snorringalbert/flybo2-support/issues)
+
+---
+*Thank you for playing Flybo II!*
